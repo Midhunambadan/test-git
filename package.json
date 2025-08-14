@@ -8,9 +8,17 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "express": "^5.1.0",
     "nodemon": "^3.1.10"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Midhunambadan/test-git.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Midhunambadan/test-git/issues"
+  },
+  "homepage": "https://github.com/Midhunambadan/test-git#readme",
+  "description": ""
 }
