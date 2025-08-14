@@ -13,3 +13,10 @@ fs.writeFile(file,'Hello bro',(err)=>{
 })
 
 
+fs.readFile(file,'utf-8',(err,data)=>{
+    if(err){
+        console.log(err)
+    }
+
+    console.log(data)
+})
